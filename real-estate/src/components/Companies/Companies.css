@@ -1,0 +1,17 @@
+.c-container{
+    justify-content: space-around;
+    gap: 10rem;
+}
+.c-container>img{
+    width: 9rem;
+}
+
+.company{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    color: rgb(212, 0, 255);
+    font-size: 3rem;
+    font-weight: 800;
+}
