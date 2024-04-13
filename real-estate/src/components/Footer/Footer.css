@@ -1,0 +1,20 @@
+.footer-logo{
+    color: #1f3e72;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.f-container{
+    display: flex;
+    justify-content: space-around;
+    gap: 40rem;
+
+}
+.f-left{
+    gap: 1rem;
+}
+.f-menu{
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+    font-weight: 500;
+}
